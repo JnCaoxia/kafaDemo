@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  * 类UserDto.java的实现描述：TODO 类实现描述 
- * @author Sunney 2016年4月30日 上午10:53:54
+ * @author nazi
  */
 public class UserDto {
     private Integer userId;

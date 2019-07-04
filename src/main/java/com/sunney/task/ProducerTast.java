@@ -22,7 +22,7 @@ import java.util.Random;
 /**
  * 类ProducerTasl.java的实现描述：TODO 类实现描述
  * 
- * @author Sunney 2016年5月6日 上午11:42:50
+ * @author nazi
  */
 @Component
 public class ProducerTast {

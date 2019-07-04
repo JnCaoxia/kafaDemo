@@ -22,7 +22,7 @@ import com.sunney.service.UserDto;
 /**
  * 类KafkaConsumerService.java的实现描述：消费接收类
  * 
- * @author Sunney 2016年4月30日 上午11:46:14
+ * @author nazi
  */
 public class KafkaConsumerServiceImpl implements KafkaConsumerService{
 

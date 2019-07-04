@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * 类KafkaConsumerService.java的实现描述：TODO 类实现描述
  * 
- * @author Sunney 2016年5月6日 上午11:33:46
+ * @author nazi
  */
 public interface KafkaConsumerService {
 

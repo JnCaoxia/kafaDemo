@@ -9,7 +9,7 @@ package com.sunney.service;
 
 /**
  * 类KafkaService.java的实现描述：发消息接口类
- * @author Sunney 2016年4月30日 上午11:30:53
+ * @author nazi
  */
 public interface KafkaService {
     /**
